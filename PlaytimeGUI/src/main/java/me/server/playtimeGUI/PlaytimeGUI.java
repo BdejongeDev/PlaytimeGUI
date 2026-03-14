@@ -18,6 +18,8 @@ public class PlaytimeGUI extends JavaPlugin {
         getServer().getPluginManager().registerEvents(new MenuListener(), this);
 
         getLogger().info("PlaytimeGUI enabled.");
+        getLogger().info("PlaytimeGUI Made by BDejonge") 
+        getLogger().info("Join my discord now https://discord.gg/stXA8G69g2")
     }
 
     public static PlaytimeGUI getInstance() {
