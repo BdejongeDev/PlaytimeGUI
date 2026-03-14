@@ -1,9 +1,0 @@
-name: PlaytimeGUI
-version: 1.0
-main: me.server.playtimeGUI.PlaytimeGUI
-api-version: 1.20
-
-commands:
-  playtime:
-    description: View player playtime
-    usage: /playtime [player]
